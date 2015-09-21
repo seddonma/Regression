@@ -4,11 +4,21 @@ author: "seddonma"
 date: "September 21, 2015"
 output: pdf_document
 ---
+**Please note that I have interwoven the figures and text as taught in the Reproducable Research course, however my report does not exceed 5 pages as instructed** 
+
 # Executive Summary
 
 # Methodology
 
+## Loading Data
+
+## Describe Data
+
+## Model Selection
+
 # Results
-```{r}
-summary(cars)
-```
+
+## Uncertainty
+
+
+
