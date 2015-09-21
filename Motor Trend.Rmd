@@ -1,0 +1,14 @@
+---
+title: "Motor Trend"
+author: "seddonma"
+date: "September 21, 2015"
+output: pdf_document
+---
+# Executive Summary
+
+# Methodology
+
+# Results
+```{r}
+summary(cars)
+```
