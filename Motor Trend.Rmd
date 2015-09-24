@@ -1,16 +1,23 @@
 ---
 title: "Motor Trend"
 author: "seddonma"
-date: "September 21, 2015"
+date: "September 27, 2015"
 output: pdf_document
 ---
 **Please note that I have interwoven the figures and text as taught in the Reproducable Research course, however my report does not exceed 5 pages as instructed** 
 
 # Executive Summary
+Using a dataset from 1974 comprising 32 cars, a linear model was developed to explore the relationship between a car's miles-per-gallon (MPG) and whether the car has an automatic or manual transmission. The resulting model shows that the presence of menual transmission improves MPG performance by 7.245 miles/gallon. 
 
 # Methodology
 
 ## Loading Data
+As shown below, the data is loaded in through R. The mtcars dataset comes from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
+
+
+```{r}
+data("mtcars")
+```
 
 ## Describe Data
 
@@ -19,6 +26,5 @@ output: pdf_document
 # Results
 
 ## Uncertainty
-
 
 
